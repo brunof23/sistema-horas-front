@@ -1,5 +1,5 @@
 # sistema-horas-front
-Front End da aplicação
+Front End da aplicação "Certificado Horas"
 
 
 ### Intruções:
